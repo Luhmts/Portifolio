@@ -5,7 +5,7 @@ import styled from "styled-components";
 export const Main = styled.main`
 height: 100vh;
 display: flex;
-background-color: red;
+background-color: #A594F9;
 @media (max-width: 500px){
     flex-direction: column;
 }
